@@ -34,11 +34,12 @@ body{
 .image{
     display: flex;
     align-items: center;
+    justify-content: center;
     flex:1;
 }
 
 .image img{
-    width: 100%;
+    width: 90%;
     height: 90%;
     object-fit: cover;
 }
